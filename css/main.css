@@ -3,6 +3,7 @@
 	margin: 0;
 	padding: 0;
 }
+
 body {
 	font-family: 'Oswald', sans-serif;
 	color: #808080;
@@ -14,6 +15,7 @@ body {
 	background-color: #fff;
 	height: 70px;
 }
+
 .background-principal{
 	background-image: url("../images/background.jpg");
     background-repeat: no-repeat;
@@ -26,11 +28,11 @@ body {
 	text-align: center;
     position:relative;
 }
+
 .name{
 	font-size: 3rem;
 	color: #FFFFFF;
 }
-
 
 .background-1{
 	background-image: url("../images/tile1.png");
@@ -41,10 +43,12 @@ body {
 	text-align: center;
     height:520px;
 }
+
 .aboutme {
 	text-align: left;
 	margin-left:400px;
 }
+
 .img-aboutme{
 	width: 265px;
 	height: 265px;
@@ -52,6 +56,7 @@ body {
 	padding: 7px 7px;
 	margin: 7px 100px;
 }
+
 .aboutme-info{
 	color: #808080;
 	padding: 7px 7px;
@@ -59,26 +64,27 @@ body {
 	text-align: left;
 }
 
-
 .background-2{
 	background-image: url("../images/tile2.png");
     background-repeat: repeat;
     height:300px;
 }
+
 .myfavourite {
 	padding: 5% 15%;
 	text-align: center;
 }
+
 .things{
 	border-radius: 50%;
 	border: 2px solid #9C21E6;
 	padding: 3px 3px;
 }
 
-
 .contact{
 	padding-top:5px;
 }
+
 .social{
 	margin-left:350px;
 }
